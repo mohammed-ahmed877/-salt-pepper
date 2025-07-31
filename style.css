@@ -152,14 +152,10 @@ nav {
 
  /*our franchies stareted */
 
- .franchies-container
- {
+ .main-customer-heading h2{
+    font-size: 40px;
     justify-content: center;
-    display: flex;
- }
- p.note{
-    justify-content: center;
-    font-size: larger;
+
  }
  
   /*our franchies ended */
