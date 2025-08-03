@@ -150,12 +150,15 @@ nav {
 }
 /* our brand ended */
 
- /*our franchies stareted */
 
- .main-customer-heading h2{
-    font-size: 40px;
-    justify-content: center;
 
- }
- 
-  /*our franchies ended */
+/* our main hading started */
+.main-hading h2 {
+display: flex;
+justify-content: center;
+align-items: center; 
+flex-wrap: wrap;
+gap: 10px;
+display: flex;
+}
+/* our main hading ended */
