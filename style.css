@@ -153,12 +153,64 @@ nav {
 
 
 /* our main hading started */
-.main-hading h2 {
-display: flex;
-justify-content: center;
-align-items: center; 
-flex-wrap: wrap;
-gap: 10px;
-display: flex;
+.main-2 h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ font-size: 24px;
+ 
 }
+.main-2 p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+.loucation small{
+    font-family: 'apercu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0.48em;
+    text-transform: uppercase;
+    color: #ED1C24;
+    margin-bottom: 8px;
+    display: block;
+}
+.loucation p{
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 10px;
+}
+.loucation h2{
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+
+}
+.loucation button{
+     border: none;
+    padding: 12px 17px;
+    border-radius: 30px;
+    background-color: #000000;
+ color: var(--white);
+border: 1px solid var(--white);
+}
+
+
+
+   
+
+
+   
 /* our main hading ended */
